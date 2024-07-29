@@ -1,13 +1,13 @@
 # handyCraft__Odc
 
 ## Modules à Développer :
-1- Gestion des Utilisateurs
-2- Gestion des Commandes
-3- Gestion des produits
-4- Gestion de livraison
-5- Gestion des promotions
-6- Gestion de paiment
-7- Intégration API Externe
+###### 1- Gestion des Utilisateurs
+###### 2- Gestion des Commandes
+###### 3- Gestion des produits
+###### 4- Gestion de livraison
+###### 5- Gestion des promotions
+###### 6- Gestion de paiment
+###### 7- Intégration API Externe
 
 ## Fonctionnalités par Module:
 
